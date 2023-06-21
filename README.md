@@ -1,2 +1,2 @@
-# analyse des ventes d'une librairie
+# analyse des ventes d'une librairie avec python
  
